@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(188, 226, 213);
+
+}
+.for{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12%;
+     
+}
+input{
+    width: 70px;
+    height: 35px;
+    margin: 5px;
+    background-color: rgb(5, 5, 80);
+    color: white;
+    font-size: large;
+}
+#Result{
+    width: 93.5%;
+}
